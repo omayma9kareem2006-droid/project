@@ -1,4 +1,11 @@
 
+
+
+
+
+
+
+
 AVR video: I do not know why the led did not turn off when d >50
 
 https://github.com/user-attachments/assets/98189032-6e43-4d06-99b2-a7ea6415e06b
@@ -12,6 +19,14 @@ https://github.com/user-attachments/assets/b7277055-e810-4b00-8725-16266bff1749
 
 https://github.com/user-attachments/assets/34a3ae60-2573-47b1-8b16-156f55df88b6
 
+
+
+https://github.com/user-attachments/assets/60149b1e-8018-43db-9d4c-448fb7d226ba
+
+
+
+
+https://github.com/user-attachments/assets/88f4abb9-f9ca-4dd8-aaa8-b992cba1e5c8
 
 
 
